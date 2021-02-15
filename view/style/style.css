@@ -1,0 +1,52 @@
+* {
+	font-family: "Chakra Petch", sans-serif !important;
+	src: url(./ChakraPetch-Regular.ttf);
+	font-display: auto;
+	margin: 0;
+}
+
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+	display: flex;
+	justify-content: center;
+}
+/* .carrousel-inner div {
+	text-align: center;
+} */
+#bouton_carousel {
+	border: none;
+	background: none;
+}
+
+#section_gauche_accueil {
+	background-image: url("../ressources/images.jpg");
+	background-repeat: repeat;
+	border: #ea0506 2px solid;
+}
+.btn.btn-default.dropdown-toggle {
+	color: white !important;
+	margin-bottom: 80%;
+}
+nav {
+	background-image: url("../ressources/images.jpg");
+	border-bottom: #ea0506 2px solid;
+}
+#section_droite {
+	margin-left: 17%;
+}
+h2 {
+	color: white;
+	padding-left: 15px;
+}
+footer {
+	background-image: url("../ressources/images.jpg");
+	border-top: #ea0506 2px solid;
+}
+footer p {
+	margin-bottom: 0 !important;
+}
+
+.cb {
+	background: #e6e6e656;
+}

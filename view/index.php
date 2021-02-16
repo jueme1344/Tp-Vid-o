@@ -216,11 +216,6 @@
 						>
 							<div class="carousel-inner">
 								<figure class="carousel-item active">
-									<img
-										src="./ressources/im1.jpg"
-										class="d-block w-50 justify-content-center"
-										alt="..."
-									/>
 									<div
 										class="carousel-caption d-none d-md-block"
 									>
